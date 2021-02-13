@@ -19,9 +19,10 @@ Governments provide the social and economic agreements that govern the game worl
 #### Root Government Charter
 - Dictatorship owned and governed by Tesseract Collective
 - Un-regulated capitalist economy
-- Owns 10% of all assets inside the government
+- Owns 10% of all assets (DIDs) inside the government
 - Allows creation of sub-governments with their own charters
-- Allows sub-governments to leave and become completely autonomous once they reach either 1 Million users or an equal size of the Root Government, whichever happens to be larger
+- Allows sub-governments to leave and become completely autonomous once they reach either 1 Million users or 50% of the number of users in the Root Government, whichever happens to be larger
+- This charter can change at any time as determined by Tesseract Collective and a group of independant advisors (TBD).
 
 Due to the nature of the root government charter, other governments can eventually separate from the root government and no longer be owned by the game's creator. This model incentivizes governements to do what is in the best interest of them and the DIDs (people and things) that they govern. We would like to see a wide variety of governing and economic systems in use with the ability of people to choose the systems that they want and that they feel will be the most advantagous to them. We also want to see governments and communities built up around arbitrary interests and ideas instead of just by geography, nationality, culture and race. 
 
